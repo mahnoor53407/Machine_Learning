@@ -1,0 +1,14 @@
+﻿# NumPy package-specific local build and generated artifacts
+__pycache__/
+*.py[cod]
+*.so
+*.pyd
+*.dll
+build/
+dist/
+*.egg-info/
+
+minichallenges.ipynb
+phase1.ipynb
+phase2.ipynb
+project1.ipynb

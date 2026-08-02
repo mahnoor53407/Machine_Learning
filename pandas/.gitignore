@@ -1,0 +1,6 @@
+# Project-specific ignores
+# Add files or folders for this project here.
+
+employees.xlsx
+practice1.ipynb
+students.csv
