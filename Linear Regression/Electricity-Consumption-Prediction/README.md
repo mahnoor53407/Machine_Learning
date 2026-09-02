@@ -1,5 +1,7 @@
 # Electricity Consumption Prediction using Linear Regression
 
+The dataset used in this project was obtained from Kaggle. Due to dataset licensing/redistribution restrictions, the original dataset is not included in this repository.
+
 ## Project Overview
 
 A beginner machine learning project focused on predicting daily electricity consumption using Linear Regression.
