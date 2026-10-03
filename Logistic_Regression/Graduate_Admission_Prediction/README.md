@@ -1,6 +1,6 @@
-# Logistic Regression — Graduate Admission Prediction
+# **Logistic Regression — Graduate Admission Prediction**
 
-## 📌 Overview
+## **📌 Overview**
 
 A Machine Learning classification project using **Logistic Regression** to predict whether a student is **Admitted** or **Not Admitted** based on academic and application-related features.
 
@@ -11,7 +11,7 @@ The original `Chance of Admit` value was converted into a binary target:
 
 > The 0.70 threshold is a project-defined threshold and is not an official admission cutoff.
 
-## 🛠️ Tools & Libraries
+## **🛠️ Tools & Libraries**
 
 - Python
 - Pandas
@@ -19,7 +19,7 @@ The original `Chance of Admit` value was converted into a binary target:
 - Matplotlib
 - Scikit-learn
 
-## 📊 Features Used
+## **📊 Features Used**
 
 - GRE Score
 - TOEFL Score
@@ -28,13 +28,13 @@ The original `Chance of Admit` value was converted into a binary target:
 - LOR
 - CGPA
 
-## 🤖 Model
+## **🤖 Model**
 
 **Logistic Regression**
 
 Train/Test Split: **80/20**
 
-## 📈 Results
+## **📈 Results**
 
 | Metric    |      Score |
 | --------- | ---------: |
@@ -43,7 +43,7 @@ Train/Test Split: **80/20**
 | Recall    | **89.58%** |
 | F1-Score  | **92.47%** |
 
-### Confusion Matrix
+### **Confusion Matrix**
 
 ```text
 [[30, 2],
@@ -52,11 +52,11 @@ Train/Test Split: **80/20**
 
 The project also includes visualizations for the **Confusion Matrix** and **Actual vs Predicted values**.
 
-## 📚 Dataset
+## **📚 Dataset**
 
 Graduate Admission 2 dataset from Kaggle.
 
-## 👩‍💻 Author
+## **👩‍💻 Author**
 
 **Mahnoor Ejaz**
 
